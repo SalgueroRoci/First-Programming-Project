@@ -4,7 +4,7 @@
 //  Class: CPSC Java 223J - 02
 // 	Final 3
 // 	Due Date:  12/12/16
-//	Description: Program that shows steps for Hanoi game  
+//	Description: Program that shows steps for Hanoi game (Not fully completed) 
 //  
 //*******************************************************************
 import java.awt.*;
